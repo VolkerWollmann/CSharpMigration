@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="CS472\CS472.csproj" />
+    <ProjectReference Include="CS80\CS80.csproj" />
+    <ProjectReference Include="CS90\CS90.csproj" />
+  </ItemGroup>
+
+</Project>

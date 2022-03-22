@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CS472\CS472.csproj" />
+    <ProjectReference Include="..\CS73\CS73.csproj" />
+    <ProjectReference Include="..\CS80\CS80.csproj" />
+    <ProjectReference Include="..\CS90\CS90.csproj" />
+  </ItemGroup>
+
+</Project>
