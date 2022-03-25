@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS73Standard20", "CS73Stand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS73NetFramework472", "CS73NetFramework472\CS73NetFramework472.csproj", "{59B94452-45ED-4199-8989-3CA1B641AE28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp480", "ConsoleApp480\ConsoleApp480.csproj", "{7C877312-DA46-4577-93CF-1D9F86148ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS73NetFramework480", "CS73NetFramework480\CS73NetFramework480.csproj", "{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{59B94452-45ED-4199-8989-3CA1B641AE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59B94452-45ED-4199-8989-3CA1B641AE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59B94452-45ED-4199-8989-3CA1B641AE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C877312-DA46-4577-93CF-1D9F86148ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C877312-DA46-4577-93CF-1D9F86148ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C877312-DA46-4577-93CF-1D9F86148ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C877312-DA46-4577-93CF-1D9F86148ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
