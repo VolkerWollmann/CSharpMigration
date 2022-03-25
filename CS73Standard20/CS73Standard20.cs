@@ -4,9 +4,9 @@ using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-namespace CS73NameSpace
+namespace CS73Standard20NameSpace
 {
-    public class CS73Class
+    public class CS73Standard20Class
     {
         // C# 9.0 (.NET 5.0 )
         public void Method(object o1)

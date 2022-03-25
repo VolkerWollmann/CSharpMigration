@@ -50,13 +50,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CS472\CS472.csproj">
+    <ProjectReference Include="..\CS73NetFramework472\CS73NetFramework472.csproj">
       <Project>{59b94452-45ed-4199-8989-3ca1b641ae28}</Project>
-      <Name>CS472</Name>
+      <Name>CS73NetFramework472</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CS73\CS73.csproj">
-      <Project>{e46665ed-f48a-49da-a6c1-ad3278f78c1c}</Project>
-      <Name>CS73</Name>
+    <ProjectReference Include="..\CS73Standard20\CS73Standard20.csproj">
+      <Project>{35ca076e-b203-4871-a500-656d555a7690}</Project>
+      <Name>CS73Standard20</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

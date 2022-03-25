@@ -7,9 +7,9 @@ using System.Data.Sql;
 using System.Data.SqlClient;
 using System.Diagnostics;
 
-namespace CS472NameSpace
+namespace CS73NetFramework472NameSpace
 {
-    public class CS472Class
+    public class CS73NetFramework472Class
     {
         // C# 9.0 (.NET 5.0 )
         public void Method(object o1)

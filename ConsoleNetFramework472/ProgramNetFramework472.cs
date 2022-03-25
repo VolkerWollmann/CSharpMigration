@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp472
 {
@@ -12,18 +9,18 @@ namespace ConsoleApp472
         {
             ;
 
-            CS472NameSpace.CS472Class cs472Class = new CS472NameSpace.CS472Class();
-            cs472Class.Method(1);
+            CS73NetFramework472NameSpace.CS73NetFramework472Class cs73NetFramework472Class = new CS73NetFramework472NameSpace.CS73NetFramework472Class();
+            cs73NetFramework472Class.Method(1);
 
-            CS73NameSpace.CS73Class cs73Class = new CS73NameSpace.CS73Class();
-            cs73Class.Method(1);
+            CS73Standard20NameSpace.CS73Standard20Class cs73Standard20Class = new CS73Standard20NameSpace.CS73Standard20Class();
+            cs73Standard20Class.Method(1);
 
             //Top must be newest:
-            //CS80NameSpace.CS80Class cs80Class = new CS80NameSpace.CS80Class();
-            //cs80Class.Method(2);
+            //CS80Standard21NameSpace.CS80Standard21Class cs80Standard21Class = new CS80Standard21NameSpace.CS80Standard21Class();
+            //cs80Standard21Class.Method(2);
 
-            //CS90NameSpace.CS90Class cs90Class = new CS90NameSpace.CS90Class();
-            //cs90Class.Method(3);
+            //CS90Net50NameSpace.CS90Net50Class cs90Net50Class = new CS90Net50NameSpace.CS90Net50Class();
+            //cs90Net50Class.Method(3);
         }
     }
 }

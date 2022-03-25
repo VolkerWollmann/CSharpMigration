@@ -4,18 +4,18 @@ using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-namespace CS90NameSpace
+namespace CS80Standard21NameSpace
 {
-    public class CS90Class
+    public class CS80Standard21Class
     {
         // C# 9.0 (.NET 5.0 )
         public void Method(object o1)
         {
-            switch (o1)
-            {
-                case int: break; // test if o1 is an int
-                case System.String: break; // test if o1 is a string
-            }
+            //switch (o1)
+            //{
+            //    //case int: break; // test if o1 is an int
+            //    //case System.String: break; // test if o1 is a string
+            //}
         }
 
         // C# 7.3 (.NET Standard 2.0)
