@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS80Standard21NameSpace
 {
+    //  https://docs.microsoft.com/de-de/dotnet/framework/migration-guide/runtime/4.7.2-4.8
     public class CS73Standard21Class
     {
         // C# 9.0 (.NET 5.0 )
@@ -25,13 +26,13 @@ namespace CS80Standard21NameSpace
         }
 
         // C# 8.0 (.NET Standard 2.1)
-        public static async IAsyncEnumerable<int> e()
-        {
-            for (int i = 1; i <= 10; i++)
-            {
-                await Task.Delay(1000);//Simulate waiting for data to come through. 
-                yield return i;
-            }
-        }
+        //public static async IAsyncEnumerable<int> e()
+        //{
+        //    for (int i = 1; i <= 10; i++)
+        //    {
+        //        await Task.Delay(1000);//Simulate waiting for data to come through. 
+        //        yield return i;
+        //    }
+        //}
     }
 }
