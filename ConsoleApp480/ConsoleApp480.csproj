@@ -54,6 +54,10 @@
       <Project>{59b94452-45ed-4199-8989-3ca1b641ae28}</Project>
       <Name>CS73NetFramework472</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CS73NetFramework480\CS73NetFramework480.csproj">
+      <Project>{ad7cf682-b3d2-45f8-b69c-d165fdb8027f}</Project>
+      <Name>CS73NetFramework480</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CS73Standard20\CS73Standard20.csproj">
       <Project>{35ca076e-b203-4871-a500-656d555a7690}</Project>
       <Name>CS73Standard20</Name>

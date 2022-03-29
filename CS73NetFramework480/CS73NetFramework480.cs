@@ -4,10 +4,10 @@ using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-namespace CS80Standard21NameSpace
+namespace CS73NetFramework480NameSpace
 {
     //  https://docs.microsoft.com/de-de/dotnet/framework/migration-guide/runtime/4.7.2-4.8
-    public class CS73Standard21Class
+    public class CS73NetFramework480Class
     {
         // C# 9.0 (.NET 5.0 )
         public void Method(object o1)
