@@ -33,5 +33,10 @@ namespace CS73Standard20NameSpace
         //        yield return i;
         //    }
         //}
+
+        public void UseSubClass()
+        {
+            C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
+        }
     }
 }

@@ -44,5 +44,11 @@
     <Compile Include="CS73NetFramework472.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CS73Standard20SubClass\CS73Standard20SubClass.csproj">
+      <Project>{9e3b3933-49bd-497e-9f54-a3fc072234a3}</Project>
+      <Name>CS73Standard20SubClass</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
