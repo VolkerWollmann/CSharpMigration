@@ -37,5 +37,11 @@ namespace CS80Standard21NameSpace
         {
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
         }
+
+        // C# 8.0 (.NET Standard 2.1) : no remoting
+        //public void UseRemoting()
+        //{
+        //    ObjectHandle objectHandle = null;
+        //}
     }
 }

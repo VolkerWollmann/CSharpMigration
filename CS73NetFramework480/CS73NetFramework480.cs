@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Diagnostics;
+using System.Runtime.Remoting;
 using System.Threading.Tasks;
 
 namespace CS73NetFramework480NameSpace
@@ -38,6 +39,12 @@ namespace CS73NetFramework480NameSpace
         public void UseSubClass()
         {
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
+        }
+
+        // remoting
+        public void UseRemoting()
+        {
+            ObjectHandle objectHandle = null;
         }
     }
 }

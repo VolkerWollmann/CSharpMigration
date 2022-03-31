@@ -38,5 +38,11 @@ namespace CS73Standard20NameSpace
         {
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
         }
+
+        // C# 7.3 (.NET Standard 2.0) : no remoting
+        //public void UseRemoting()
+        //{
+        //    ObjectHandle objectHandle = null;
+        //}
     }
 }
