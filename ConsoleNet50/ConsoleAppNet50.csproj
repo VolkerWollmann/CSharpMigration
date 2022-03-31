@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CS73NetFramework472\CS73NetFramework472.csproj" />
+    <ProjectReference Include="..\CS73NetFramework480\CS73NetFramework480.csproj" />
     <ProjectReference Include="..\CS73Standard20\CS73Standard20.csproj" />
     <ProjectReference Include="..\CS80Standard21\CS80Standard21.csproj" />
     <ProjectReference Include="..\CS90Net50\CS90Net50.csproj" />

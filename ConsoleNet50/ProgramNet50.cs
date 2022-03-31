@@ -11,6 +11,9 @@ namespace ProgramNet50
             CS73NetFramework472NameSpace.CS73NetFramework472Class cs73NetFramework472Class = new CS73NetFramework472NameSpace.CS73NetFramework472Class();
             cs73NetFramework472Class.Method(1);
 
+            CS73NetFramework480NameSpace.CS73NetFramework480Class cs73NetFramework480Class = new CS73NetFramework480NameSpace.CS73NetFramework480Class();
+            cs73NetFramework472Class.Method(1);
+
             CS73Standard20NameSpace.CS73Standard20Class cs73Standard20Class = new CS73Standard20NameSpace.CS73Standard20Class();
             cs73Standard20Class.Method(1);
 
