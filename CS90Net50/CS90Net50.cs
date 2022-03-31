@@ -40,7 +40,7 @@ namespace CS90Net50NameSpace
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
         }
 
-        //C# 8.0 (.NET 5.0) : no remoting
+        //C# 8.0 (.NET 5.0) : remoting
         public void UseRemoting()
         {
             ObjectHandle objectHandle = null;

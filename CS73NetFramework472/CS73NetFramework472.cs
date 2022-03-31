@@ -43,7 +43,7 @@ namespace CS73NetFramework472NameSpace
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
         }
 
-        // remoting
+        // C# 7.3 (.NET Framework 4.7.2)
         public void UseRemoting()
         {
             ObjectHandle objectHandle = null;
