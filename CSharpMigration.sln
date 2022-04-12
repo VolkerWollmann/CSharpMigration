@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS73NetFramework480", "CS73
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS73Standard20SubClass", "CS73Standard20SubClass\CS73Standard20SubClass.csproj", "{9E3B3933-49BD-497E-9F54-A3FC072234A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS73Framework472SubClass", "CS73Framework480SubClass\CS73Framework472SubClass.csproj", "{5E277ED6-AEBC-4F8E-AD85-F377B321E621}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9E3B3933-49BD-497E-9F54-A3FC072234A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E3B3933-49BD-497E-9F54-A3FC072234A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E3B3933-49BD-497E-9F54-A3FC072234A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E277ED6-AEBC-4F8E-AD85-F377B321E621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E277ED6-AEBC-4F8E-AD85-F377B321E621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E277ED6-AEBC-4F8E-AD85-F377B321E621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E277ED6-AEBC-4F8E-AD85-F377B321E621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

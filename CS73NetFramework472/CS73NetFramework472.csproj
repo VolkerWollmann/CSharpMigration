@@ -45,6 +45,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CS73Framework480SubClass\CS73Framework472SubClass.csproj">
+      <Project>{5e277ed6-aebc-4f8e-ad85-f377b321e621}</Project>
+      <Name>CS73Framework472SubClass</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CS73Standard20SubClass\CS73Standard20SubClass.csproj">
       <Project>{9e3b3933-49bd-497e-9f54-a3fc072234a3}</Project>
       <Name>CS73Standard20SubClass</Name>

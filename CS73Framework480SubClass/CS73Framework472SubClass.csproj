@@ -4,14 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD7CF682-B3D2-45F8-B69C-D165FDB8027F}</ProjectGuid>
+    <ProjectGuid>{5E277ED6-AEBC-4F8E-AD85-F377B321E621}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSNetFramework480</RootNamespace>
-    <AssemblyName>CSNetFramework480</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RootNamespace>CS73Framework480SubClass</RootNamespace>
+    <AssemblyName>CS73Framework480SubClass</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -41,18 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CS73NetFramework480.cs" />
+    <Compile Include="CS73Framework472SubClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CS73Framework480SubClass\CS73Framework472SubClass.csproj">
-      <Project>{5e277ed6-aebc-4f8e-ad85-f377b321e621}</Project>
-      <Name>CS73Framework472SubClass</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CS73Standard20SubClass\CS73Standard20SubClass.csproj">
-      <Project>{9e3b3933-49bd-497e-9f54-a3fc072234a3}</Project>
-      <Name>CS73Standard20SubClass</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

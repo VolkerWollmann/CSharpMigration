@@ -39,6 +39,11 @@ namespace CS73Standard20NameSpace
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
         }
 
+        public void UseCS73Framework472SubClass()
+        {
+            CS73Framework472SubClassNameSpace.CS73Framework472SubClass.Method1();
+        }
+
         // C# 7.3 (.NET Standard 2.0) : no remoting
         //public void UseRemoting()
         //{

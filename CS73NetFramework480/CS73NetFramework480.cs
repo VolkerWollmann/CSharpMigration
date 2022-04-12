@@ -36,9 +36,14 @@ namespace CS73NetFramework480NameSpace
         //    }
         //}
 
-        public void UseSubClass()
+        public void UseC73Standard20SubClass()
         {
             C73Standard20SubClassNameSpace.CS73Standard20SubClass.Method1();
+        }
+
+        public void UseCS73Framework472SubClass()
+        {
+            CS73Framework472SubClassNameSpace.CS73Framework472SubClass.Method1();
         }
 
         // C# 7.3 (.NET Framework 4.7.2)

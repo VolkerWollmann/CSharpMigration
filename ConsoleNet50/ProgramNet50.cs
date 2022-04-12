@@ -19,9 +19,10 @@ namespace ProgramNet50
 
             CS80Standard21NameSpace.CS80Standard21Class cs80Standard21Class = new CS80Standard21NameSpace.CS80Standard21Class();
             cs80Standard21Class.Method(2);
+            cs80Standard21Class.UseCS73Framework472SubClass();
 
             CS90Net50NameSpace.CS90Net50Class cs90Net50Class = new CS90Net50NameSpace.CS90Net50Class();
-            cs90Net50Class.Method(3);
+            cs90Net50Class.UseCS73Framework472SubClass();
 
         }
     }
