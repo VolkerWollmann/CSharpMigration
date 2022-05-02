@@ -1,0 +1,2 @@
+﻿This file is inlcuded in the project, but not mentioned in the csproj file.
+Build action none is by default/global setting
